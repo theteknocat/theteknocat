@@ -18,3 +18,8 @@ PHP · Drupal · Laravel · Symfony · Vue 3 · TypeScript · JavaScript · Tail
 ## How I use AI
 
 Most of my recent projects are built with AI coding tools and I say so up front. [How I work with AI](AI.md) covers what I use, why I use it and how I check the results.
+
+## Buy me a coffee
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-teknocat-ffdd00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/teknocat)
+If you like what I do and find any of it useful, feel free to [buy me a coffee](https://buymeacoffee.com/teknocat).
